@@ -19,4 +19,4 @@
 
 ```
 
-![display](../imgs/html/01_01.jpg)
+![display](../../imgs/html/01_01.jpg)
