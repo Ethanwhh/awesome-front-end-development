@@ -18,4 +18,4 @@
 
 ```
 
-![display](../../imgs/01_05.jpg)
+![display](../../imgs/html/01_05.jpg)
